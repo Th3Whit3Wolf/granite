@@ -1,0 +1,19 @@
+
+name = "Granite"
+license = "MIT"
+licenselink = "https://github.com/Th3Whit3Wolf/granite/blob/master/LICENSE.md"
+description = "A twist on the slate theme"
+homepage = "http://github.com/Th3Whit3Wolf/granite"
+tags = ["speed-dial", "single-page"]
+features = []
+min_version = "0.41"
+
+[author]
+  name = "David Karrick"
+  homepage = "https://github.com/Th3Whit3Wolf"
+
+# If porting an existing theme
+[original]
+  name = "Gus Esquivel"
+  homepage = "https://github.com/gesquive"
+  repo = "https://github.com/gesquive/slate"
