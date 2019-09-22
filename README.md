@@ -7,10 +7,9 @@ Granite's goals are to use only libre software and use no external fonts.
 - [x] Replace Exo fonts with Fira Fonts 
 - [ ] Replace Font Awesome 4.7 with Fork Awesome 1.17
 
-## Examples
+## Screenshots
 
-You can visit a live demo at https://gesquive.github.io/hugo-slate-demo/ or view
-screen shots of the [Image](https://raw.githubusercontent.com/gesquive/slate/master/images/icon_tiles.png) and [Text](https://raw.githubusercontent.com/gesquive/slate/master/images/text_tiles.png) tile display modes.
+![](screenshots/screenshot_1.png)
 
 ## Features
  - Rotating image background
@@ -22,13 +21,17 @@ screen shots of the [Image](https://raw.githubusercontent.com/gesquive/slate/mas
 
 ### Installing this theme
 
-    mkdir themes
-    cd themes
-    git clone https://github.com/Th3Whit3Wolf/granite.git
+```sh
+mkdir themes
+cd themes
+git clone https://github.com/Th3Whit3Wolf/granite.git
+```
 
 ### Build with this theme
 
-    hugo server -t granite
+```sh
+hugo server -t granite
+```
 
 ## Configuration
 
@@ -166,3 +169,9 @@ name = "music"
 tag = "music"
 icon = "headphones"
 ```
+
+### Contributing
+If you have a logo you'd like to add send me a pull request or an issue and I'll see if I can add it. All of the logos are currently SVGs and I will try to continue that.
+
+## Credits
+### 99% of all the work was done by [Gus Esquivel](https://github.com/gesquive/slate)
